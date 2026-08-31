@@ -109,7 +109,7 @@ const PROJECTS = [
     tags:  ['#minecraft mods', '#minecraft plugins', '#java'],
     color: '#22c55e',
     image: 'none',
-    links: [https://modrinth.com/organization/eclipseplugindevs],
+    links: ["https://modrinth.com/organization/eclipseplugindevs"],
   },
   {
     title: { de: 'fightlabmc.de', en: 'fightlabmc.de' },
@@ -117,7 +117,7 @@ const PROJECTS = [
     tags:  ['#events', '#pvp', '#java', '#velocity'],
     color: '#4f8cff',
     image: 'none',
-    links: [dsc.gg/fightlabmc],
+    links: ["dsc.gg/fightlabmc"],
   },
 ];
 
