@@ -109,15 +109,15 @@ const PROJECTS = [
     tags:  ['#minecraft mods', '#minecraft plugins', '#java'],
     color: '#22c55e',
     image: 'none',
-    links: [],
+    links: [https://modrinth.com/organization/eclipseplugindevs],
   },
   {
-    title: { de: 'redpixmc.de', en: 'redpixmc.de' },
-    desc:  { de: 'smp, pvp, citybuild server', en: 'smp, pvp, citybuild server' },
-    tags:  ['#smp', '#pvp', '#citybuild', '#java', '#velocity'],
+    title: { de: 'fightlabmc.de', en: 'fightlabmc.de' },
+    desc:  { de: 'event server, pvp', en: 'event server, pvp' },
+    tags:  ['#events', '#pvp', '#java', '#velocity'],
     color: '#4f8cff',
     image: 'none',
-    links: [],
+    links: [dsc.gg/fightlabmc],
   },
 ];
 
