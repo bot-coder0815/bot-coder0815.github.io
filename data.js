@@ -96,7 +96,7 @@ const SKILLS = [
    → Hier eigene Projekte eintragen. Felder leer lassen = wird ausgeblendet. */
 const PROJECTS = [
   {
-    title: { de: 'minecraft kingdom 1+2', en: 'minecraft kingdom 1+2' },
+    title: { de: 'minecraft kings attack 1+2', en: 'minecraft kings attack 1+2' },
     desc:  { de: 'ein königreich server mit teams und rollenverteilung', en: 'a kingdom server with teams and a structured role system' },
     tags:  ['#kingdoms', '#minecraft', '#java'],
     color: '#4f8cff',
