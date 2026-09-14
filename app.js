@@ -2,9 +2,11 @@
    Portfolio-App – rendert Inhalte aus data.js & verwaltet Sprache
    ============================================================ */
 'use strict';
+
 if (window.location.pathname === "/nsync") {
     window.location.replace("https://modrinth.com/project/tgS3QrMd");
 }
+
 /* ---------- Sprach-Zustand ---------- */
 let currentLang = SITE_CONFIG.defaultLanguage || 'de';
 
